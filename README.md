@@ -2,7 +2,7 @@
 ## Weather App using Django Frame Work with weather API
 
 ### Run the Project:
-Step:1 cd Weather App run this command in the terminal.\n
+Step:1 cd Weather App run this command in the terminal.<be>
 step:2 env/Scripts/Activate run this command in the terminal.
 step:3 pip install Django run this command in the terminal.
 step:4 cd weatherProject run this command in the terminal.

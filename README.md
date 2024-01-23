@@ -1,4 +1,3 @@
-# PRODIGY_WD_05
 ## Weather App using Django Frame Work with weather API
 
 ### Run the Project:
